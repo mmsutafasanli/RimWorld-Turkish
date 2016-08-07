@@ -3,17 +3,17 @@
 	
  <!-- ======== Unlandable biomes ==========-->
   
-<Ocean.label>Ocean</Ocean.label>
-<Ocean.description>Open ocean. Great for fish - not so great for you.</Ocean.description>	
+<Ocean.label>Okyanus</Ocean.label>
+<Ocean.description>Açık okyanus. Büyük balıklar için iyi - Sizin için gayet kötü.</Ocean.description>	
 
  <!-- ======== Buildable biomes ==========-->	
     
 
-<TemperateForest.label>Temperate Forest</TemperateForest.label>
-<TemperateForest.description>A friendly biome dominated by forests of deciduous trees interspersed with fertile clearings. Many species of animals move around in the trees and on the plains.</TemperateForest.description>
+<TemperateForest.label>Ilıman Orman</TemperateForest.label>
+<TemperateForest.description>Bereketli temiz Büyük yapraklı ağaçların hakim olduğu alanlardır. Ağaçlarda ve düzlüklerde bir çok hayvan bulunur.</TemperateForest.description>
 	
 
-<TropicalRainforest.label>Tropical Rainforest</TropicalRainforest.label>
-<TropicalRainforest.description>A thick, moist jungle. Dense overgrowth and aggressive wildlife make construction and survival difficult.</TropicalRainforest.description>
+<TropicalRainforest.label>Tropikal Yağmur Ormanları</TropicalRainforest.label>
+<TropicalRainforest.description>Yoğun bitki örtülü nemli ormanlardır. Hızlı büyüyen bitki örtüsü, agresif hayvanlarından dolayı inşaat yapmak ve yaşamak zordur.</TropicalRainforest.description>
 	
 </LanguageData>
