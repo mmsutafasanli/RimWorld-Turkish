@@ -11,7 +11,7 @@
     <Brewing.description>Birahanen varsa şerbetçi otunun tadını güzelleştirir, lezzetli bira. </Brewing.description>
     
     <Stonecutting.label>Taş yontma</Stonecutting.label>
-    <Stonecutting.description>Taş yontma masası yapmana olanak sağlar, inşaat için taşları blokları haline getirip istiflemeni sağlar.</Stonecutting.description>
+    <Stonecutting.description>Taş yontma masası yapmana olanak sağlar, inşaat için taşları bloklar haline getirip istiflemeni sağlar.</Stonecutting.description>
     
     <CarpetMaking.label>halı dokuma</CarpetMaking.label>
     <CarpetMaking.description>Kolonistler yaşam kalitelerini artırmak için halı dokumaya başlarlar.</CarpetMaking.description>
@@ -20,9 +20,9 @@
     <Smithing.description>Demirci tezgahı yapmanı sağlar,burada silah ve eşya üretebilirsin.</Smithing.description>
     
     <ComplexClothing.label>kompleks giyim</ComplexClothing.label>
-    <ComplexClothing.description>Komplex giysiler yapmanı sağlar. pantolon,  pants, önlük ve kovboy şapkası gibi.</ComplexClothing.description>
+    <ComplexClothing.description>Komplex giysiler yapmanı sağlar. pantolon, önlük ve kovboy şapkası gibi.</ComplexClothing.description>
     
     <Electricity.label>elektrik</Electricity.label>
-    <Electricity.description>Araştırın yemek ve diğer basit işler için elektrikten yararlanın</Electricity.description>
+    <Electricity.description>Yemek ve diğer basit işler için elektrikten yararlanın</Electricity.description>
     
 </LanguageData>
