@@ -14,13 +14,13 @@
     <AirConditioning.description>Klima yaptığın odaları soğutabilir ve ısıtabilirsin.</AirConditioning.description>
     
     <Autodoors.label>oto. kapılar.</Autodoors.label>
-    <Autodoors.description>Otomatik kapı yapılan yerlerde kise yavaşlamadan yoluna devam eder.</Autodoors.description>
+    <Autodoors.description>Otomatik kapı yapılan yerlerde kişi yavaşlamadan yoluna devam eder.</Autodoors.description>
     
     <Hydroponics.label>topraksız tarım</Hydroponics.label>
-    <Hydroponics.description>Topraksız tarım masalarında içerde havadan veya arazi koşullarından etkilenmeden bitki yetiştirebilirsin.</Hydroponics.description>
+    <Hydroponics.description>Topraksız tarım masalarında oda içinde havadan veya arazi koşullarından etkilenmeden bitki yetiştirebilirsin.</Hydroponics.description>
     
     <ElectricSmelting.label>Elektrikli Döküm Ocağı</ElectricSmelting.label>
-    <ElectricSmelting.description>Elektrikli Döküm Ocağı ve demirci Ocağı yapabilirsin.\n\nTElektrikli Demirci Ocağı allows yakıtsız demircilik yapmanı sağlar. Elektrikli Döküm Ocağı güçlü elekromanyetik mıknatısları kullanarak metal yığını, cürfu veya çeşitli silahları eritmeni sağlar.</ElectricSmelting.description>
+    <ElectricSmelting.description>Elektrikli Döküm Ocağı ve demirci Ocağı yapabilirsin.\n\nElektrikli Demirci Ocağı allows yakıtsız demircilik yapmanı sağlar. Elektrikli Döküm Ocağı güçlü elekromanyetik mıknatısları kullanarak metal yığını, cürfu veya çeşitli silahları eritmeni sağlar.</ElectricSmelting.description>
     
     <ElectricCremation.label>elektrikli krematoryum</ElectricCremation.label>
     <ElectricCremation.description>krematoryum yaparsan istenmeyen cesetleri buharlaştırabilirsin.</ElectricCremation.description>
